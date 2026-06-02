@@ -5,8 +5,8 @@ title: Goldly
 # Goldly
 
 Vietnamese gold price tracker. Compare SJC, DOJI, PNJ, and Bảo Tín
-quotes at a glance, with an Android home-screen widget that refreshes
-hourly during business hours.
+quotes at a glance, with Android and iOS home-screen widgets for quick
+price checks.
 
 ## Links
 
